@@ -1,28 +1,28 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "SITHU-MD",
+  "description": "SITHU-MD Whatsapp bot © CYBER KING SITHU",
+  "logo": "toolzin.com-94728786936.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "GUYi2CTB#htu8KBcwp_zMeM7gjZU93P1oMddYPHrAfW8mJ3bs3cM",
       "required": true,
       "value": ""
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "94728786936",
       "required": true,
-      "value": "94779062397"
+      "value": "94728786936"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "94728786936"
     },
     
     "PREFIX": {
