@@ -5,14 +5,14 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "GUYi2CTB#htu8KBcwp_zMeM7gjZU93P1oMddYPHrAfW8mJ3bs3cM", // Add your session id
+SESSION_ID: process.env.SESSION_ID || "iAIB3CyB#FxCTZBoRzYF6BcjPaZqcK_VT6kS6SxmG474_8BZlzmc", // Add your session id
 PREFIX: process.env.PREFIX || ".",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94728786936",
 DEV: process.env.DEV || "94728786936",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "YOUR STATUS AUTO SEEN BY CUBER KING KING SITHU",
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "YOUR STATUS AUTO SEEN BY CYBER KING KING SITHU",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
